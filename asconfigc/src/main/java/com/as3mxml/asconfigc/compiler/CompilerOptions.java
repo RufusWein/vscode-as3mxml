@@ -41,6 +41,7 @@ public class CompilerOptions
 	public static final String OPTIMIZE = "optimize";
 	public static final String OMIT_TRACE_STATEMENTS = "omit-trace-statements";
 	public static final String OUTPUT = "output";
+	public static final String OUTPUTS = "outputs";
 	public static final String PRELOADER = "preloader";
 	public static final String SHOW_UNUSED_TYPE_SELECTOR_WARNINGS = "show-unused-type-selector-warnings";
 	public static final String SIZE_REPORT = "size-report";
